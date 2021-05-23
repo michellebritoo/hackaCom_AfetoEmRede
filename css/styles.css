@@ -1212,6 +1212,22 @@ section {
   text-align: center;
   font-size: 13px;
 }
+.inner-main::-webkit-scrollbar {
+  width: 12px;     
+  border: #4B4DED; 
+       /* width of the entire scrollbar */
+}
+
+.inner-main::-webkit-scrollbar-track {
+  background: #ffe5d6;  
+  border-radius: 20%;        /* color of the tracking area */
+}
+
+.inner-main::-webkit-scrollbar-thumb {
+  background-color: #ffe5d6;    /* color of the scroll thumb */
+  border-radius: 20px;       /* roundness of the scroll thumb */
+  border: 3px solid #0E0E2C;  /* creates padding around scroll thumb */
+}
 
 @media (max-width: 768px) {
   #footer .copyright, #footer .credits {
