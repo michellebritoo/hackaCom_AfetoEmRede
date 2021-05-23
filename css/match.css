@@ -1,0 +1,16 @@
+.title {
+    text-align: center;
+    font-family: 'Segoe UI';
+    color: #4b4ded;
+}
+
+.smile {
+    background-color: #E0773C;
+    /*padding-left: 80%;*/
+    border-radius: 80%;
+    opacity:0.5;
+    border:none;
+    float:right;
+    align-items:center;
+    padding-top:0px;
+}
