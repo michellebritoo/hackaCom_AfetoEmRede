@@ -1,0 +1,13 @@
+.perfil {
+    align-items: center;
+    align-content: center;
+    /*padding-left:40%;*/
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+}
+
+.grafico {
+    margin-left: auto;
+    margin-right: auto;
+}
