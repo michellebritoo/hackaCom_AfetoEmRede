@@ -1062,6 +1062,9 @@ section {
   background: #FFBF9B;
 }
 
+#select{
+  background-color: #4B4DED;
+}
 @-webkit-keyframes animate-loading {
   0% {
     transform: rotate(0deg);
