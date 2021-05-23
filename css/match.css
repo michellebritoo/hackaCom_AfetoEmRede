@@ -2,6 +2,8 @@
     text-align: center;
     font-family: 'Segoe UI';
     color: #4b4ded;
+    font-size:500%;
+    padding:2%;
 }
 
 .smile {
@@ -13,4 +15,8 @@
     float:right;
     align-items:center;
     padding-top:0px;
+}
+
+#match{
+    padding:0%;
 }
