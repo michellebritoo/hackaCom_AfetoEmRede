@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="pt-br">
 <head>
 	<title>Login</title>
@@ -42,26 +42,26 @@
 </head>
 <body style="background-color: #0E0E2C;">
 
-    <!-- ======= Header ======= -->
- <header id="header">
-    <div class="container d-flex align-items-center justify-content-between">
+	<!-- ======= Header ======= -->
+	<header id="header">
+		<div class="container d-flex align-items-center justify-content-between">
 
-      <div class="logo">
-        <a href="../index.html"><img src="../img/logo-amarelo.png" alt="" class="img-fluid"></a>
-      </div>
-      <nav id="navbar" class="navbar">
-        <ul>
-          <li><a class="nav-link scrollto" href="../index.html">Home</a></li>
-          <li><a class="nav-link scrollto" href="login.html">Login</a></li>
-          <li><a class="nav-link scrollto" href="forum.html">Fórum</a></li>
-          <li><a class="getstarted scrollto" href="match.html">Match!</a></li>
-        </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
+			<div class="logo">
+				<a href="../index.html"><img src="../img/logo-amarelo.png" alt="" class="img-fluid"></a>
+			</div>
+			<nav id="navbar" class="navbar">
+				<ul>
+					<li><a class="nav-link scrollto" href="../index.html">Home</a></li>
+					<li><a class="nav-link scrollto" href="login.html">Login</a></li>
+					<li><a class="nav-link scrollto" href="forum.html">Fórum</a></li>
+					<li><a class="getstarted scrollto" href="match.html">Match!</a></li>
+				</ul>
+				<i class="bi bi-list mobile-nav-toggle"></i>
+			</nav><!-- .navbar -->
 
-    </div>
-  </header><!-- End Header -->
-	
+		</div>
+	</header><!-- End Header -->
+
 	<div class="limiter">
 		<div class="container-login100">
 			<div class="wrap-login100">
@@ -69,15 +69,15 @@
 					<span class="login100-form-title p-b-43">
 						Faça login para continuar
 					</span>
-					
-					
-					<div class="wrap-input100 validate-input" data-validate = "Valid email is required: ex@abc.xyz">
+
+
+					<div class="wrap-input100 validate-input" data-validate="Valid email is required: ex@abc.xyz">
 						<input class="input100" type="text" name="email">
 						<span class="focus-input100"></span>
 						<span class="label-input100">Email</span>
 					</div>
-					
-					
+
+
 					<div class="wrap-input100 validate-input" data-validate="Password is required">
 						<input class="input100" type="password" name="pass">
 						<span class="focus-input100"></span>
@@ -98,14 +98,14 @@
 							</a>
 						</div>
 					</div>
-			
+
 
 					<div class="container-login100-form-btn">
-						<button class="login100-form-btn">
+						<button class="login100-form-btn" onclick="window.open('https://afetoemrede.netlify.app/html/perfil.html')">
 							Login
 						</button>
 					</div>
-					
+
 					<div class="text-center p-t-46 p-b-20">
 						<span class="txt2">
 							ou entre usando
@@ -128,26 +128,46 @@
 			</div>
 		</div>
 	</div>
-	
-	
 
-	
-	
-<!--===============================================================================================-->
+	<!--chat bot-->
+	<section>
+		<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+		<df-messenger intent="WELCOME"
+					  chat-title="Afeto em Rede"
+					  agent-id="172cea69-76e6-4638-ab58-c689501cf382"
+					  language-code="pt-br">
+
+		</df-messenger>
+
+		<style>
+			df-messenger {
+				--df-messenger-bot-message: #878fac;
+				--df-messenger-button-titlebar-color: #df9b56;
+				--df-messenger-chat-background-color: #fafafa;
+				--df-messenger-font-color: white;
+				--df-messenger-send-icon: #878fac;
+				--df-messenger-user-message: #262641;
+			}
+		</style>
+	</section>
+
+
+
+	<!--===============================================================================================-->
 	<script src="jquery/jquery-3.2.1.min.js"></script>
-<!--===============================================================================================-->
+	<!--===============================================================================================-->
 	<script src="vendor/animsition/js/animsition.min.js"></script>
-<!--===============================================================================================-->
+	<!--===============================================================================================-->
 	<script src="vendor/bootstrap/js/popper.js"></script>
 	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-<!--===============================================================================================-->
+	<!--===============================================================================================-->
 	<script src="vendor/select2/select2.min.js"></script>
-<!--===============================================================================================-->
+	<!--===============================================================================================-->
 	<script src="vendor/daterangepicker/moment.min.js"></script>
 	<script src="vendor/daterangepicker/daterangepicker.js"></script>
-<!--===============================================================================================-->
+	<!--===============================================================================================-->
 	<script src="vendor/countdowntime/countdowntime.js"></script>
-<!--===============================================================================================-->
+	<!--===============================================================================================-->
 	<script src="js/main2.js"></script>
 
 </body>
