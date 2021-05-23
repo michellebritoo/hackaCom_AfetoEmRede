@@ -1057,6 +1057,14 @@ section {
   width: 100px;
   height: 40px;
 }
+.fmatch{
+  background-image: url('../img/match.png');
+  background-repeat: no-repeat;
+  color: #4B4DED;
+  }
+.fm{
+  background-color: rgba(75, 77, 237, 0.7);
+}
 
 .contact .php-email-form button[type="submit"]:hover {
   background: #FFBF9B;
