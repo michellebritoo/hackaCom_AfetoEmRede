@@ -4,12 +4,12 @@ body {
 }
 
 a {
-  color: #fdc134;
+  color: #4B4DED;
   text-decoration: none;
 }
 
 a:hover {
-  color: #fdd067;
+  color: #ffe5d6;
   text-decoration: none;
 }
 
@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 99999;
-  background: #213b52;
+  background: #ffbf9b;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #fdc134;
+  background: #ffbf9b;
   color: #fff;
 }
 
@@ -66,7 +66,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 997;
   transition: all 0.5s;
   padding: 16px 0;
-  background: #213b52;
+  background: #0E0E2C;
 }
 
 #header .logo h1 {
@@ -139,17 +139,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar .getstarted {
-  background: #213b52;
+  background: #ffbf9b;
   color: #fff;
   padding: 4px 25px 6px 25px;
   margin-left: 30px;
   border-radius: 50px;
-  border: 2px solid #fdc134;
+  border: 2px solid #ffbf9b;
 }
 
 .navbar .getstarted:hover {
-  background: #fdc134;
-  color: #213b52;
+  background: #ffe5d6;
+  color: #8C8CA1;
 }
 
 .navbar .dropdown ul {
@@ -177,7 +177,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 14px;
   text-transform: none;
   font-weight: 500;
-  color: #3e6f9b;
+  color: #0E0E2C;
 }
 
 .navbar .dropdown ul a i {
@@ -277,7 +277,7 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-mobile a {
   padding: 10px 20px;
   font-size: 15px;
-  color: #213b52;
+  color: #0E0E2C;
 }
 
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
@@ -333,8 +333,8 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   padding: 0 0 0 0;
-  background: #213b52;
-  background: linear-gradient(180deg, #213b52 0%, #213c54 35%, #204564 100%);
+  background: #F3D9DA;
+  background: linear-gradient(180deg, #F3D9DA 0%, #ffe5d6 35%, #FAFCFE 100%);
 }
 
 #hero h1 {
@@ -353,32 +353,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started {
-  color: #213b52;
+  color: #F3D9DA;
   border-radius: 50px;
   padding: 8px 35px 10px 35px;
-  border: 2px solid #fdc134;
+  border: 2px solid #F3D9DA;
   transition: all ease-in-out 0.3s;
   display: inline-block;
-  background: #fdc134;
+  background: #F3D9DA;
 }
 
 #hero .btn-get-started:hover {
   background: transparent;
   color: #fff;
-}
-#itens-whapper{
-  width: 100vw;
-}
-
-#itens{
-  display: flex;
-  overflow-x: auto;
-}
-
-#carroussel {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
 }
 
 @media (max-width: 991px) {
@@ -424,7 +410,7 @@ section {
 }
 
 .section-bg {
-  background: linear-gradient(180deg, #f2f6fa 0%, #fff 100%);
+  background: linear-gradient(180deg, #f2f6fa 0%, #FAFCFE 100%);
 }
 
 .section-title {
@@ -440,7 +426,7 @@ section {
   padding-bottom: 20px;
   position: relative;
   font-family: "Poppins", sans-serif;
-  color: #213b52;
+  color: #0E0E2C;
 }
 
 .section-title h2::before {
@@ -449,7 +435,7 @@ section {
   display: block;
   width: 120px;
   height: 1px;
-  background: #ddd;
+  background: #FAFCFE;
   bottom: 1px;
   left: calc(50% - 60px);
 }
@@ -460,7 +446,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #fdc134;
+  background: #ffbf9b;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -474,7 +460,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background-color: #f6f9fb;
+  background-color: #FAFCFE;
   min-height: 40px;
 }
 
@@ -552,7 +538,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 34px;
-  color: #213b52;
+  color: #0E0E2C;
 }
 
 .about .content p {
@@ -567,22 +553,22 @@ section {
   font-size: 20px;
   font-weight: 700;
   margin: 5px 0 10px 60px;
-  color: #213b52;
+  color: #0E0E2C;
 }
 
 .about .content .icon-box h4 a {
-  color: #213b52;
+  color: #0E0E2C;
   transition: 0.3s;
 }
 
 .about .content .icon-box h4 a:hover {
-  color: #fdc134;
+  color: #ffe5d6;
 }
 
 .about .content .icon-box i {
   font-size: 48px;
   float: left;
-  color: #fdc134;
+  color: #ffe5d6;
 }
 
 .about .content .icon-box p {
@@ -594,7 +580,7 @@ section {
 .about .image {
   background: url("../img/about.jpg") center center no-repeat;
   background-size: cover;
-  min-height: 400px;
+  min-height: 300px;
 }
 
 @media (max-width: 667px) {
@@ -633,8 +619,8 @@ section {
 
 .services .card-body {
   z-index: 10;
-  background: #fff;
-  border-top: 4px solid #fff;
+  background: #FAFCFE;
+  border-top: 4px solid #FAFCFE;
   padding: 30px;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   margin-top: -60px;
@@ -648,7 +634,7 @@ section {
 }
 
 .services .card-title a {
-  color: #213b52;
+  color: #0E0E2C;
   transition: 0.3s;
 }
 
@@ -657,7 +643,7 @@ section {
 }
 
 .services .read-more a {
-  color: #777777;
+  color: #4A4A68;
   text-transform: uppercase;
   font-weight: 600;
   font-size: 12px;
@@ -665,7 +651,7 @@ section {
 }
 
 .services .read-more a:hover {
-  color: #fdc134;
+  color: #4B4DED;
 }
 
 .services .card:hover img {
@@ -673,11 +659,11 @@ section {
 }
 
 .services .card:hover .card-body {
-  border-color: #fdc134;
+  border-color: #4B4DED;
 }
 
 .services .card:hover .card-body .card-title a {
-  color: #fdc134;
+  color: #4B4DED;
 }
 
 /*--------------------------------------------------------------
@@ -690,7 +676,7 @@ section {
 .features .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #213b52;
+  color: #0E0E2C;
 }
 
 .features .content ul {
@@ -705,13 +691,12 @@ section {
 .features .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #fdc134;
+  color: #FFBF9B;
 }
 
 .features .content p:last-child {
   margin-bottom: 0;
 }
-
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
@@ -740,7 +725,7 @@ section {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  color: #fdc134;
+  color: #FFBF9B;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -1319,7 +1304,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #fdc134;
+  background: #FFBF9B;
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
@@ -1327,7 +1312,7 @@ section {
 }
 
 #footer .footer-top .footer-newsletter form input[type="submit"]:hover {
-  background: #fcb102;
+  background: #ffe5d6;
 }
 
 #footer .footer-top .social-links {
@@ -1350,7 +1335,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #fcb102;
+  background: #ffe5d6;
   color: #fff;
   text-decoration: none;
 }
