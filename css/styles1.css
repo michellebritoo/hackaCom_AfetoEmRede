@@ -3,13 +3,11 @@ body{
     color: #1a202c;
     text-align: left;
     background-color: #e2e8f0;    
-    display: grid;
 }
 .inner-wrapper {
     position: relative;
     height: calc(100vh - 3.5rem);
     transition: transform 0.3s;
-    grid-area: 1;
 }
 @media (min-width: 992px) {
     .sticky-navbar .inner-wrapper {
@@ -35,7 +33,6 @@ body{
 .inner-main {
     right: 0;
     left: 235px;
-    grid-area: 2;
 }
 .inner-main-footer,
 .inner-main-header,

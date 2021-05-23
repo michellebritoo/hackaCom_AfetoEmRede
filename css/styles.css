@@ -1049,9 +1049,17 @@ section {
   color: #fff;
   transition: 0.4s;
 }
+.bt-1{
+  background-color: #FFBF9B;
+  border: 1px solid #ffe5d6 ;
+  border-radius: 50%;
+  transition: 0.4s;
+  width: 100px;
+  height: 40px;
 
+}
 .contact .php-email-form button[type="submit"]:hover {
-  background: #fdd067;
+  background: #FFBF9B;
 }
 
 @-webkit-keyframes animate-loading {
