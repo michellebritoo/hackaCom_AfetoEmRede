@@ -2,7 +2,9 @@
 
 # **Afeto em rede** by Time Arco-íris :rainbow:
 
-## Integrantes: :person_frowning:
+ ![GitHub repo size](https://img.shields.io/github/repo-size/michellebritoo/hackaCom_AfetoEmRede?style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/michellebritoo/hackaCom_AfetoEmRede?style=for-the-badge) [![Netlify Status](https://api.netlify.com/api/v1/badges/1a0fac4f-29d3-420d-b61e-018aab4b5da9/deploy-status)](https://app.netlify.com/sites/afetoemrede/deploys) ![🥰💻 Plataforma](https://afetoemrede.netlify.app/)
+ 
+## Integrantes: 💻💞
 
 - Fernanda Aguiar - http://fernandah.com.br/ || https://www.linkedin.com/in/fernandadeaguiar
 
@@ -16,8 +18,7 @@
 
 - Virna OLiveira - https://github.com/virnaas || https://www.linkedin.com/in/virna-oliveira-78400b205/
 
-  
-
+ 
 ## Objetivo e Motivações :dart:
 
 - A afeto em rede é uma aplicação multiplataforma para unir tanto pessoas, quanto ongs com interesses em comum. Através de uma comunidade onde os doadores (de qualquer local do Brasil) (serviços, materiais, dinheiro) podem dar “Match” na ong de seu interesse.
@@ -33,7 +34,7 @@
 
   ### Afeto em Rede: nossa tecnologia é a solidariedade.
 
-  ## Tecnologias utilizadas:
+## Tecnologias utilizadas:
 
   - Protótipo: Figma, Miro, Ilustrator e Canva
   - Aplicação Web: 
@@ -42,8 +43,17 @@
     - Hospedagem: Netlify
 
 
-  ## Do que nos orgulhamos:
+## Do que nos orgulhamos:
 
   - Dar vida à uma solução multiplataforma que permite para unir tanto pessoas, quanto ongs com interesses em comum! Estamos orgulhosas de criar um canal de comunicação aberto 24 horas por dia, através de um chat bot, pois acreditamos que ouvir é a parte mais importante!
  
+ ### - Demonstração do bot com Inteligência Artificial da Google
+   ![](https://github.com/michellebritoo/hackaCom_AfetoEmRede/blob/master/img/chatbotInterecao.gif)
+ 
+ - Para ver uma demosntração em vídeo, basta acessar nosso canal do YouTube: https://www.youtube.com/watch?v=qXVg8VmSkVQ
+ 
+ ### - Plataforma
+   ![](https://github.com/michellebritoo/hackaCom_AfetoEmRede/blob/master/img/overviewTelas.gif)
+ - 🥰💻 Para ver nossa DEMO REVIEW, acesse:
+ - 🥰💻 Para ver nossa PLATAFORMA, acesse: https://afetoemrede.netlify.app/
 
