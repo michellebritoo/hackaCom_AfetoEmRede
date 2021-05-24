@@ -1,4 +1,4 @@
-![](/html/img/arco.jpg)
+![](https://github.com/michellebritoo/hackaCom_AfetoEmRede/blob/master/img/logo-amarelo.png)
 
 # **Afeto em rede** by Time Arco-íris :rainbow:
 
@@ -31,32 +31,19 @@
 
 - Facilidade de escalonamento das ongs nacionalmente.
 
-  ### Conectar para afetar, a sua causa é a nossa causa.
+  ### Afeto em Rede: nossa tecnologia é a solidariedade.
 
-  ## Que tecnologias vocês usaram no hackathon?
+  ## Tecnologias utilizadas:
 
-  - Protótipo: Figma
-  - Aplicação Web: HTML, CSS, Javascript, Boostrap
+  - Protótipo: Figma, Miro, Ilustrator e Canva
+  - Aplicação Web: 
+    - Frontend: HTML, CSS, Javascript, Boostrap e Jquery
+    - Backend e infraestrutura: Hospedamos um servidor na Google Cloud Plataform e consumimos a API Rest da plataforma Dialog Flow
+    - Hospedagem: Netlify
 
-  ## Por que vocês escolheram essas tecnologias?
 
-  - 
+  ## Do que nos orgulhamos:
 
-  ## Qual foi a maior desafio (da parte de desenvolvimento) durante o hackathon? Como vocês resolveram?
-
-  - 
-
-  ## Qual foi o maior aprendizado (ou uma parte do código que vocês achem massa e estão orgulhosas)?
-
-  - 
-
-  ## Se vocês fossem participar de um hackathon semana que vem, fariam algo de diferente com relação às escolhas das tecnologias utilizadas?
-
-  
-
-  ## Status do projeto:
-
-  #### 🚧  Em construção... 🚧
-
-  
+  - Dar vida à uma solução multiplataforma que permite para unir tanto pessoas, quanto ongs com interesses em comum! Estamos orgulhosas de criar um canal de comunicação aberto 24 horas por dia, através de um chat bot, pois acreditamos que ouvir é a parte mais importante!
+ 
 
