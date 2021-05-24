@@ -54,6 +54,6 @@
  
  ### - Plataforma
    ![](https://github.com/michellebritoo/hackaCom_AfetoEmRede/blob/master/img/overviewTelas.gif)
- - 🥰💻 Para ver nossa DEMO REVIEW, acesse:
+ - 🥰💻 Para ver nossa DEMO REVIEW, acesse: https://youtu.be/HQ7D7vO0kz0
  - 🥰💻 Para ver nossa PLATAFORMA, acesse: https://afetoemrede.netlify.app/
 
